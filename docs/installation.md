@@ -11,7 +11,7 @@
 .. note::
     - 若需在已有区块链上进行升级，请转至 `版本及兼容 <change_log/index.html>`_ 章节。
     - 搭建多群组的链操作类似， `参考这里 <manual/group_use_cases.html>`_ 。
-    - 本节使用预编译的静态`fisco-bcos`二进制文件，在CentOS 7和Ubuntu 16.04 64bit上经过测试。
+    - 本节使用预编译的静态`fisco-bcos`二进制文件，在CentOS 7和Ubuntu 16.04 64bit上经过测试。并且已有开发者在Ubuntu 18.04 64bit上成功完成本节内容
 ```
 
 ### 准备环境
